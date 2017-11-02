@@ -1,4 +1,5 @@
 #most_common_words_graph.py
+#example of creating a graph from scraped html using pyplot
 import requests
 from collections import Counter
 from matplotlib import pyplot as plt
